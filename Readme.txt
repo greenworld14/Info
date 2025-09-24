@@ -8,6 +8,7 @@ Best regards.
 Hi
 I am a senior Node developer.
 https://drive.google.com/file/d/1AmgO0mkVn7Gzzc6oSn0l8LPXVCLs8_Tu/view?usp=sharing (maksym)
+https://drive.google.com/file/d/17qCXY7pUma072lCH1JyoRs4BuFoBjtYW/view?usp=sharing(Nox)
 My skills include Node, express. As a backend developer.
 I can make createAndSendEmail function that:
 1. Send a Gmail message to a recipient with subject, body and CC
